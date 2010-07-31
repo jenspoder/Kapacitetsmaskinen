@@ -1,5 +1,40 @@
 h2. Etabler databasen
 
-h2. Planlæg layout af kode baseret på OOP
+* -Lav indtil fase 1 af projektet kan påbegyndes (oversigt over kapacitet)-
+* Lav indtil fase 2 af projektet kan påbegyndes (oversigt over kapacitetsbooking)
+* Lav indtil fase 3 af projektet kan påbegyndes (oversigt over ugeplaner)
+
+h2. Planlæg layout af kode
+
+En af de underlæggende projekter for mig i dette projekt er at lære at lave koden object-orienteret. Why? Don't ask why.
+
+* Planlæg rækkefølge af ebablering af klasser (eventuelt ved tavlemøde med Nikolaj)
 
 h2. Lær Git
+
+Formålet med at lære Git er at dele en adgang med Nikolaj til at kunne udveksle versioner af koden
+
+* Forstå hvordan man grundlæggende arbejder med Git (suk)
+* Få styr på at skubbe kode op, trække kode ned og merge og den slags (dobbelt suk)
+
+h2. Fase 1: Kapacitet, Medarbejdere og Frihed med php
+
+Problemstillinger
+
+h3. Display af data
+
+* Lav display af ferie - grupperet efter måned
+* Lav display af kapacitet grupperet per måned
+** Hvordan håndterer man optælling af arbejdsdage på en måned?
+
+h3. Oprettelse af data
+
+* Tilføj og Ret medarbejder <!-- medarbejdere.php   -->
+* Tilføj og Ret ferie <!-- frihed.php   -->
+* Tilføj og Ret kapacitet <!-- kapacitet.php   -->
+* Tilføj og Ret opgave_type <!-- opgave_typer.php   -->
+
+h2. Fase 2: Kapacitetsplanlægning med php
+
+h2. Fase 3: Ugeplaner med php
+
