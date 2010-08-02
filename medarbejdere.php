@@ -1,3 +1,8 @@
+<?php 
+require_once('authenticate.php');
+?>
+
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
    "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -7,6 +12,8 @@
 	<title>  </title>
 	<meta name="generator" content="TextMate http://macromates.com/">
 	<meta name="author" content="Jens Poder">
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
 	<!-- Date: 2010-07-31 -->
 </head>
 <body>
@@ -23,11 +30,11 @@
 * 4: Element der muliggør rettelse af den enkelte medarbejder
 * Det er tænkt at koden i videst mulige udstrækning skal trække på medarbejder-klassen medarbejder_class.php
 **/
-
-
-
-
-
 ?>
+
+<div id="container">
+	<h1>Medarbejdere</h1>
+</div>
+
 </body>
 </html>

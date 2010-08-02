@@ -1,21 +1,23 @@
 h2. Etabler databasen
 
 * -Lav indtil fase 1 af projektet kan påbegyndes (oversigt over kapacitet)-
-* Lav indtil fase 2 af projektet kan påbegyndes (oversigt over kapacitetsbooking)
-* Lav indtil fase 3 af projektet kan påbegyndes (oversigt over ugeplaner)
+* -Lav indtil fase 2 af projektet kan påbegyndes (oversigt over kapacitetsbooking)-
+* -Lav indtil fase 3 af projektet kan påbegyndes (oversigt over ugeplaner)-
+* Upload ny version af database ark til Google Docs.
 
 h2. Planlæg layout af kode
 
 En af de underlæggende projekter for mig i dette projekt er at lære at lave koden object-orienteret. Why? Don't ask why.
 
-* Planlæg rækkefølge af ebablering af klasser (eventuelt ved tavlemøde med Nikolaj)
+* Planlæg rækkefølge af etablering af klasser (eventuelt ved tavlemøde med Nikolaj)
 
 h2. Lær Git
 
 Formålet med at lære Git er at dele en adgang med Nikolaj til at kunne udveksle versioner af koden
 
-* Forstå hvordan man grundlæggende arbejder med Git (suk)
-* Få styr på at skubbe kode op, trække kode ned og merge og den slags (dobbelt suk)
+* -Forstå hvordan man grundlæggende arbejder med Git (suk)-
+* -Få styr på at skubbe kode op, trække kode ned og merge og den slags (dobbelt suk)-
+* Få styr på at merge branches
 
 h2. Fase 1: Kapacitet, Medarbejdere og Frihed med php
 
