@@ -1,0 +1,49 @@
+body {
+	background-color: #f3f3f3;
+	color: gray;
+	font: 11pt/18pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+#container {
+	background: #fffeff 0 0;
+	width: 700px;
+	padding: 20px;
+	top: -10px;
+	left: 30px;
+	position: relative;
+}
+
+h1 {
+	color: #ed7843;
+	font: small-caps bold 24pt/26pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h2 {
+	color: #ed7843;
+	font: small-caps bold 16pt/19pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.page-text {
+	margin-left: 10px;
+}
+
+hr {
+	height: 3px;
+	background-color: silver;
+	border: 0px;
+}
+
+.status0 {
+	font-weight: bold;
+	color: green;
+}
+
+.status1 {
+	font-weight: bold;
+	color: #ed7843;
+}
+.status2 {
+	font-weight: bold;
+	color: red;
+}
+		

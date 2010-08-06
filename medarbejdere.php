@@ -33,7 +33,11 @@ require_once('authenticate.php');
 ?>
 
 <div id="container">
+	<div id="centerspalte">
 	<h1>Medarbejdere</h1>
+	</div>
+	<div id="hoejrespalte">
+	</div>
 </div>
 
 </body>

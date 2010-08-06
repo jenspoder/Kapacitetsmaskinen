@@ -17,9 +17,13 @@ Formålet med at lære Git er at dele en adgang med Nikolaj til at kunne udveksl
 
 * -Forstå hvordan man grundlæggende arbejder med Git (suk)-
 * -Få styr på at skubbe kode op, trække kode ned og merge og den slags (dobbelt suk)-
-* Få styr på at merge branches
+* -Få styr på at merge branches-
 
 h2. Fase 1: Kapacitet, Medarbejdere og Frihed med php
+
+h3. Design
+
+* Implementer CSS der kan styre layout. Eventuelt noget i stil med http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/
 
 Problemstillinger
 
