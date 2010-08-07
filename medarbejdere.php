@@ -30,15 +30,29 @@ require_once('authenticate.php');
 * 4: Element der muliggør rettelse af den enkelte medarbejder
 * Det er tænkt at koden i videst mulige udstrækning skal trække på medarbejder-klassen medarbejder_class.php
 **/
+
+
+// 0: Inkluder standard variablere der skal bruges
+
+require_once("appvars.php");
+
 ?>
 
 <div id="container">
 	<div id="centerspalte">
+	
 	<h1>Medarbejdere</h1>
+	
+	
 	</div>
+	
 	<div id="hoejrespalte">
+	
+	Medarbejderliste
+	
+		
+	
 	</div>
 </div>
-
 </body>
 </html>

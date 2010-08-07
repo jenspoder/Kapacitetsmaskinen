@@ -11,7 +11,7 @@ En af de underlæggende projekter for mig i dette projekt er at lære at lave ko
 
 * Planlæg rækkefølge af etablering af klasser (eventuelt ved tavlemøde med Nikolaj)
 
-h2. Lær Git
+h2. -Lær Git-
 
 Formålet med at lære Git er at dele en adgang med Nikolaj til at kunne udveksle versioner af koden
 
@@ -29,15 +29,15 @@ Problemstillinger
 
 h3. Display af data
 
-* Lav display af ferie - grupperet efter måned
-* Lav display af kapacitet grupperet per måned
+* Lav display af ferie - grupperet efter måned 
+* Lav display af kapacitet grupperet per måned <!-- kapacitet.php   -->
 ** Hvordan håndterer man optælling af arbejdsdage på en måned?
 
 h3. Oprettelse af data
 
 * Tilføj og Ret medarbejder <!-- medarbejdere.php   -->
 * Tilføj og Ret ferie <!-- frihed.php   -->
-* Tilføj og Ret kapacitet <!-- kapacitet.php   -->
+* Tilføj og Ret kapacitet 
 * Tilføj og Ret opgave_type <!-- opgave_typer.php   -->
 
 h2. Fase 2: Kapacitetsplanlægning med php
